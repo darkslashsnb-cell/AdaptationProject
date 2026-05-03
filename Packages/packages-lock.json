@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.eightyfive.testassets": {
+      "version": "https://github.com/darkslashsnb-cell/TestAssets.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "6f3fa3e42e66892e754317438d15e6c472f89530"
+    },
     "com.unity.collab-proxy": {
       "version": "2.12.4",
       "depth": 0,
